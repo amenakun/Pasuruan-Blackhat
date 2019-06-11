@@ -26,7 +26,8 @@ echo " LIST KAMI:" | lolcat
 echo $yellow"{1} Penetrasion Testing Website Vulnrable"$yellow
 echo $cyan"{2} Hash Killer"$cyan
 echo $yellow"{3} Admin Login Finder"$yellow
-echo $cyan"{4} Bug Hunter"$cyan                                                                                                              echo $yellow"{5} Make script Deface"$yellow
+echo $cyan"{4} Bug Hunter"$cyan
+echo $yellow"{5} Make script Deface"$yellow
 echo $cyan"{6} Deface Full Homepage"$cyan
 echo " Please choose:" | lolcat
 read nomor
